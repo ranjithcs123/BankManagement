@@ -1,2 +1,2 @@
 # BankManagement
- some files
+ Banking management codes using JDBC
